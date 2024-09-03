@@ -1,7 +1,7 @@
 # Apacheck
 
 ## Description
-Apacheck is a lightweight tool designed to analyze Apache configuration files for potential misconfigurations and security vulnerabilities. By scanning your Apache configuration files, Apacheck helps you ensure that your web server is properly configured and secure.
+Apacheck is a linting tool designed to analyze Apache configuration files for potential misconfigurations and security vulnerabilities. By scanning your Apache configuration files, Apacheck helps you ensure that your web server is properly configured and secure.
 
 ## Features:
 - Identifies insecure SSL/TLS configurations.
